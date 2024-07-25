@@ -12,3 +12,10 @@ The model consists of two main parts: the **upper airways** (including the nasal
 <br>
 <br>
 The model was developed using the Julia programming language, and the simulation results were plotted using Python's matplotlib library.
+<br>
+<br>
+Files are provided via following links:
+
+- [Supplementary](supplementary)
+- [Simulation results](simulation_results)
+- [Model](sars-cov-2-model-of-the-immune-response.jl)
