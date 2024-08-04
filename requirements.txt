@@ -5,6 +5,3 @@ ipywidgets
 IPython
 nbformat
 nbconvert
-threading
-time
-os
