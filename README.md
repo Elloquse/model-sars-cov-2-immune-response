@@ -1,4 +1,4 @@
-# Multi-compartmental model of the immune response to SARS-CoV-2 infection
+# Multi-compartmental model of the immune response to SARS-CoV-2 infection ([DOI: 10.3390/v17050589](https://www.mdpi.com/1999-4915/17/5/589))
 
 The model consists of two main parts: the **upper airways** (including the nasal cavity, oral cavity, and pharynx) and the **lower airways** (including the trachea, bronchial tree, and lungs). Each structural module is connected to a **draining lymph node compartment**, in overall forming four interconnected modules. The model incorporates innate immunity, involving macrophages and dendritic cells, and adaptive immunity, comprising humoral (antibodies) and cellular (CTLs, Th1, and Tfh cells) components. Cellular interactions in the model are facilitated by direct contacts, such as antigen presentation, or by cytokine signaling via IL-2, IL-6, IL-12, and IFNγ.
 
